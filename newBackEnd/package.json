@@ -1,0 +1,25 @@
+{
+  "name": "newbackend",
+  "version": "1.0.0",
+  "description": "New Backend using Node.js and Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanldias/study.git"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Alan Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanldias/study/issues"
+  },
+  "homepage": "https://github.com/alanldias/study#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
